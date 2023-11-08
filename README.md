@@ -29,7 +29,7 @@ php artisan test
 ```
 ### Run specific test
 ```
- php artisan test --filter MerchantServiceTes
+ php artisan test --filter MerchantServiceTest
 ```
 ### Run specific method in specific test 
 ```
